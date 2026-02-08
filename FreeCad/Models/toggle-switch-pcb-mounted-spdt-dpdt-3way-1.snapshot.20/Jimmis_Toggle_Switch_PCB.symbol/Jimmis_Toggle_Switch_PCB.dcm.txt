@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Toggle_SW_DPDT_PCB
+D PCB mounted toggle switch six pin. Three way ON-OFF-ON.
+K switch toggle SPST SPDT DPDT Adam Tech
+$ENDCMP
+#
+$CMP Toggle_SW_SPDT_PCB
+D PCB mounted toggle switch three pin. Three way ON-OFF-ON.
+K switch toggle SPST SPDT DPDT Adam Tech
+$ENDCMP
+#
+#End Doc Library

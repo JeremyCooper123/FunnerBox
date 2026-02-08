@@ -1,0 +1,6 @@
+125b Enclosure Measurements
+
+Inner measurements
+L = 113.6mm ~
+W = 59.8mm ~
+H = 31.6mm ~

@@ -1,0 +1,9 @@
+Hi,
+
+GrabCAD does not allow uploading *.lib, *.dcm files.
+In order to use the library files rename as follow...
+
+Jimmis_Toggle_Switch_PCB.lib.txt -> Jimmis_Toggle_Switch_SPDT_PCB.lib
+Jimmis_Toggle_Switch_PCB.dcm.txt -> Jimmis_Toggle_Switch_PCB.dcm
+
+Cheers Jimmi.

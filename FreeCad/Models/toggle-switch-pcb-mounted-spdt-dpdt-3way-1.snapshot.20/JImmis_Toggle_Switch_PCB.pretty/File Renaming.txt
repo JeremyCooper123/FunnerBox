@@ -1,0 +1,9 @@
+Hi,
+
+GrabCAD does not allow uploading *.kicad_mod files.
+In order to use the library files rename as follow...
+
+Toggle_Switch_SPDT_PCB.kicad_mod.txt -> Toggle_Switch_SPDT_PCB.kicad_mod
+Toggle_Switch_DPDT_PCB.kicad_mod.txt -> Toggle_Switch_DPDT_PCB.kicad_mod
+
+Cheers Jimmi.
